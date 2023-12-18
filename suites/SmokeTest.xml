@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="SmokTest">
+  <test name="Valid Login Log Out Test" >
+    <classes>
+       <class name="swag.lab.all.tests.ValidLogiInLogOutTest" />
+    </classes>
+  </test>
+
+
+</suite>
